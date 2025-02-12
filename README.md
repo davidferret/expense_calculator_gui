@@ -1,6 +1,6 @@
 # Expense Calculator GUI
 
-This is a Python project with a graphical user interface (GUI) which helps you log and visualize your expenses efficiently. It includes features such as expense filtering, total spending breakdowns, and a pie chart visualization for category-wise expenses. Not every banking app has a tool to let you analyze your spending, and hopefully this is quicker and easier. 
+This Python project has a user interface and helps you log and visualize your expenses efficiently! Not every banking app has a tool to let you analyze your spending, so hopefully this tool can things quicker and easier for you. 
 
 
 ### Features
@@ -16,17 +16,25 @@ This is a Python project with a graphical user interface (GUI) which helps you l
 
 GUI and list of example expenses
 
+--
+
 <img width="320" alt="Screen Shot 2025-02-12 at 3 12 09 PM" src="https://github.com/user-attachments/assets/45d71ae2-1c31-4be5-a645-b884fe205151" />
 
 Calendar picker, with today's date automatically displayed
+
+--
 
 <img width="290" alt="Screen Shot 2025-02-12 at 3 12 17 PM" src="https://github.com/user-attachments/assets/ffbea984-8478-4c11-811d-f73d3b16683f" />
 
 Drop-down for different spending categories
 
+--
+
 <img width="602" alt="Screen Shot 2025-02-12 at 3 12 42 PM" src="https://github.com/user-attachments/assets/56847350-c60e-4e91-a734-e72af754a26e" />
 
 Pie chart generated using Matplotlib
+
+--
 
 ### How It Was Made
 This project was built using:
@@ -40,3 +48,4 @@ This project was built using:
 ### Future Ideas
 1. Import or export tables for example a screenshot of a bank account's recent transactions
 2. Trend graphs rather than just pie charts
+3. Creating a mobile app or website 
