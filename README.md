@@ -1,4 +1,4 @@
-# Expense Calculator GUI
+# Expense Tracker GUI
 
 This Python project has a user interface and helps you log and visualize your expenses efficiently! Not every banking app has a tool to let you analyze your spending, so hopefully this tool can things quicker and easier for you. 
 
